@@ -1,1 +1,3 @@
-I am changing this to see if there is any changes
+Author: Matthew Owens
+
+Script is designed to find NFS servers and run tcpdump on them. If log-watcher.sh is in same directory and specified option it will watch /var/log/ for messagesand kill tcpdump if a message is found
